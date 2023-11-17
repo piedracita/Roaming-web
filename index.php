@@ -7,14 +7,14 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/">
+    <link rel="canonical" href="https://www.roamingjazzband.com/">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/main.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>SAXONARA | Saxofonista para bodas y eventos</title>
+    <title>ROAMING JAZZ BAND | Saxofonista para bodas y eventos</title>
     <meta name="description" content="Saxofonista para bodas, eventos y fiestas. Shows con música comercial y jazz. Saxofonista disponible en Barcelona, Madrid, Tarragona, Girona, Ibiza, Andorra y toda España.">
     <meta name="keywords" content="saxofonista, evento, boda, fiesta, musico, Tarragona">
 
