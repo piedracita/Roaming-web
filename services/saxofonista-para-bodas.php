@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -18,7 +18,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
+        <?php include "../common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
     </header>
 
@@ -147,7 +147,7 @@
     </div>
 
     <!-- FOOTER -->
-    <?php include "../common-php/footer/es.html"; ?>
+    <?php include "../common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

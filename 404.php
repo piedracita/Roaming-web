@@ -1,6 +1,6 @@
 <!-- NOT WORKING BECAUSE ONLY HTML FOR 404 -->
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -15,7 +15,7 @@
     <meta name="description" content="Página no encontrada, vuelve a la página inicial de SAXONARA para ver los vídeos y conocer más acerca del saxofonista profesional.">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "common-php/opengraph/es.html"; ?>
+    <?php include "common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
     
 </head>
@@ -27,7 +27,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
+        <?php include "common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
     </header>
 
@@ -58,7 +58,7 @@
     </div>
 
     <!-- FOOTER -->
-    <?php include "common-php/footer/es.html"; ?>
+    <?php include "common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

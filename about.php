@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -15,7 +15,7 @@
     <meta name="keywords" content="saxofonista, SAXONARA, About, quién, arnald, eventos, bodas">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "common-php/opengraph/es.html"; ?>
+    <?php include "common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
 
 </head>
@@ -28,7 +28,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
+        <?php include "common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
     </header>
 
@@ -61,7 +61,7 @@
                                 <p><b class="artist-info-item">Redes sociales</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=vsFB0IFWStWJpotGZJmqvA" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i></a>
                                     <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fa-brands fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>
@@ -77,7 +77,7 @@
         <!-- ABOUT ARTIST END -->
 
         <!-- DIVIDER -->
-        <?php include "common-php/dividers/01-es.html"; ?>
+        <?php include "common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
         <!-- COMMON WEDDINGS -->
@@ -86,7 +86,7 @@
 
     </div>
     <!-- FOOTER -->
-    <?php include "common-php/footer/es.html"; ?>
+    <?php include "common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

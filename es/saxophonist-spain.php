@@ -7,16 +7,16 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-madrid.php">
+    <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-spain.php">
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "../common-php/localization/loc-madrid.html"; ?>
+    <?php include "../common-php/localization/loc-spain.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxophonist in Madrid | Events, Parties and Weddings | SAXONARA</title>
-    <meta name="description" content="Saxophonist in Madrid for exclusive events, weddings and private parties. Hire SAXONARA for corporate events, openings or weddings and private parties.">
-    <meta name="keywords" content="saxophonist, Madrid, SAXONARA, events, weddings, parties, saxophone">
+    <title>Saxophonist in Spain | Events, Parties and Weddings | SAXONARA</title>
+    <meta name="description" content="Saxophonist in Spain for amazing events, weddings and private parties. SAXONARA is the best roaming saxophonist for weddings, corporate events and the best parties.">
+    <meta name="keywords" content="saxophonist, spain, SAXONARA, roaming, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
@@ -41,8 +41,8 @@
             <div class="banner-item bg-saxonara-electronicsax">
                 <div class="banner-content text-white">
                     <div class="container">
-                        <h1 class="banner-title">Saxophonist in Madrid</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in Madrid for exclusive events, weddings and private parties. Hire SAXONARA for corporate events, openings or weddings and private parties.</span></p>
+                        <h1 class="banner-title">Saxophonist in Spain</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Hire SAXONARA, saxophonist in Spain for parties, events and Weddings. Music for corporate eventos and DJ & SAX for weddings.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
                             <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>
@@ -62,25 +62,24 @@
                     <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
                         <div class="about-artist">
                             <h2 class="artist-name">Arnald | SAXONARA</h2>
-                            <p><b>Professional saxophonist from Madrid with extensive experience on stage, also as a musician for weddings, events and parties.</b></p>
-                            <p>Hello! I am Arnald SAXONARA, a professional saxophonist with years of experience on stage, I studied in schools froms Spain, the USA and Puerto Rico and I play different music styles. I'm known by the stage name SAXONARA as a <strong> saxophonist for weddings and events </strong>, where I blend my music on saxophone with entertainment, seeking interaction with the guests.</p>
-                            <p>Madrid is a wonderful city to take part in the most exclusive and luxury events from the country, it has a <b>great cultural life</b> and many business centers that make it very interesting for <b>local and international activities</b>. In addition, it also has some privileged surroundings for <strong>weddings</strong>, with estates, vineyards and luxury hotels.</p>
+                            <p><b>Musician and saxophonist in Spain for corporate events, weddings and parties. Hiring and price.</b></p>
+                            <p>Hola! I'm Arnald SAXONARA, spanish saxophonist known for uplifting everyone at private parties and weddings, also available for corporate events and more. My music goes with the most unique events you can imagine, from modern Pop tunes to Smooth Jazz. I travel with my saxophone all over Spain doing shows and concerts, playing at pool parties in villas, weddings at unique venues and company events in Madrid or Barcelona.</p>
+                            <p>If you're thinking about having a party, wedding or similar in Spain and you'd like to have me, my music and my saxophone, please get in touch quickly! Let's see my availability and the best price I can give you, I'm available all over Spain and abroad aas well.</p>
                             <div class="artist-information-list">
                                 <p><b class="artist-info-item">Name</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
-                                <p><b class="artist-info-item">Age</b>:<span class="artist-info-value">32</span></p>
-                                <p><b class="artist-info-item">Saxophonist in</b>:<span class="artist-info-value">Madrid</span></p>
+                                <p><b class="artist-info-item">Saxophonist in</b>:<span class="artist-info-value">Spain</span></p>
                                 <p><b class="artist-info-item">Education</b>:<span class="artist-info-value">Schools of Spain, USA and Puerto Rico</span></p>
                                 <p><b class="artist-info-item">Follow me</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA"><i class="fab fa-facebook"></i></a>
                                     <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fab fa-instagram"></i></a>
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fab fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fab fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
                         <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="/images/cities/saxofonista-madrid.jpg" alt="Arnald SAXONARA is a saxophonist in Madrid">
+                            <img loading="lazy" class="img-responsive" src="/images/cities/saxofonista-espana.jpg" alt="Arnald SAXONARA is a saxophonist in Spain">
                         </div>
                     </div>
                 </div>
@@ -96,29 +95,29 @@
                     <div class="col-sm-5">
                         <div class="doing-items section-padding">
                             <div class="section-header">
-                                <h2 class="section-title">SAXONARA in Madrid</h2>
-                                <p class="section-subtext">Most of my performances as a saxophonist for events take place in the city of Madrid itself or its neighbors Toledo, Valladolid or Avila. Madrid is the perfect place to hold parties and I love participating in them as <strong >professional saxophonist</strong>.</p>
+                                <h2 class="section-title">SAXONARA in Spain</h2>
+                                <p class="section-subtext">I love to discover new places in Spain thanks to my music, I perform at shows all over the country, specially in <strong>Madrid</strong> and <strong>Barcelona</strong>, but also in <strong>Marbella, Valencia, Zaragoza and Santander</strong>. Whether it's an <strong>open-air party, wedding or corporate event</strong>, I'm your saxophone player and I'll play the best music for you.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Events</h4>
-                                <p class="doing-text">Corporate events in Madrid, private parties, <strong>store openings</strong>, Team Buildings in penthouses in the city or <b>Product Presentations</b> are some of the events in which I have attended as <strong>saxophonist in Madrid</strong>.</p>
+                                <p class="doing-text">Corporate eventos in Spain, <strong>private parties</strong>, sailing on a yacht, fairs or <strong>best music for drinks reception</strong> are some of the most requested event types I got to play after years being <strong>saxophonist in Spain</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-church"></i>
                                 </div>
                                 <h4 class="doing-title">Weddings</h4>
-                                <p class="doing-text">Most <strong>weddings in Madrid</strong> take place in the outskirts of the city, such as estates nearby and towards the mountains, with unique views of the city area. If you are looking for a <strong>saxophonist for weddings in Madrid</strong> you can contact me at SAXONARA.</p>
+                                <p class="doing-text">It keeps amazing me how many breaath taking wedding venues we have in Spain, my <strong>saxophone music</strong> can go perfecte with the <strong>drinks reception</strong> or <strong>DJ and SAX Wedding Party</strong>, even at the <strong>Wedding Ceremony</strong>!</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-headphones"></i>
                                 </div>
                                 <h4 class="doing-title">Hotels and Clubs</h4>
-                                <p class="doing-text">In addition to private events, I also blow my saxophone at <strong>luxury hotels in Madrid</strong>, <b>terraces</b> facing the sea or <b>penthouses</b> of bars and restaurants, etc. Always adapting my <strong>repertoire between House, Modern Pop and Jazz</strong>, as a soloist or with the best DJs.</p>
+                                <p class="doing-text">In addition to private events, I also blow my saxophone at <strong>luxury hotels in the spanish coast</strong>, <b>terraces</b> facing the sea or <b>penthouses</b> of bars and restaurants, etc. Always adapting my <strong>repertoire between House, Modern Pop and Jazz</strong>, as a soloist or with the best DJs.</p>
                             </div>
                         </div>
                     </div>
@@ -133,8 +132,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Recordings in Madrid</h3>
-                            <p class="section-subtext">Watch some of my music videos recorded in Madrid, where I show you what it's like to host events in the best city of Spain, <strong>saxophonist at weddings and parties</strong> in unique venues that not everyone know about. For the recording of these videos I use different saxophones, mainly the tenor saxophone and the alto saxophone, but also the soprano for more intimate moments such as a <strong>Wedding Ceremony</strong>.</p>
+                            <h3 class="section-title">Videos in Spain</h3>
+                            <p class="section-subtext">Watch some of my music videos recorded in Spain, <strong>saxophonist at weddings and parties</strong> in unique venues that not everyone know about. For the recording of these videos I use different saxophones, mainly the tenor saxophone and the alto saxophone, but also the soprano for more intimate moments such as a <strong>Wedding Ceremony</strong>.</p>
                         </div>
                     </div>
                 </div>

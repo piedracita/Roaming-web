@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -18,7 +18,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
+        <?php include "../common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
     </header>
 
@@ -42,64 +42,13 @@
                                     <img class="img-responsive" src="/images/services/thumb-saxofonista-para-bodas.jpg" alt="Saxofonista para bodas, SAXONARA">
                                 </a>
                                 <div class="post-content">
-                                    <h4 class="post-title"><a href="/saxofonista-bodas.php">Saxofonista para bodas</a></h4>
-                                    <p class="post-date">SAXONARA</p>
+                                    <h4 class="post-title"><a href="/saxofonista-bodas.php">Weddings</a></h4>
+                                    <p class="post-date">Roaming Jazz Band</p>
                                     <div class="post-excerpt">
-                                        <p>Resumen de experiencias, ideas, servicios y momentos divertidos que he vivido trabajando como <strong>saxofonista en bodas</strong>.</p>
+                                        <p>We'd love to be part of your weddings</strong>.</p>
                                     </div>
                                 </div>
                             </article>
-                            <article class="post">
-                                <a class="post-thumb" href="/services/clases-saxofon-lleida.php">
-                                    <img class="img-responsive" src="/images/services/thumb-clases-saxofon-lleida.jpg" alt="Profesor particular para clases de saxofón en Lleida">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/services/clases-saxofon-lleida.php">Clases de saxofón en Lleida</a></h4>
-                                    <p class="post-date">Profesor de saxofón</p>
-                                    <div class="post-excerpt">
-                                        <p>Clases particulares de saxofón en Lleida. Escríbeme para más información.</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="post">
-                                <a class="post-thumb" href="/services/clases-saxofon-tarragona.php">
-                                    <img class="img-responsive" src="/images/services/thumb-clases-saxofon-tarragona.jpg" alt="Profesor particular para clases de saxofón en Tarragona">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/services/clases-saxofon-tarragona.php">Clases de saxofón en Tarragona</a></h4>
-                                    <p class="post-date">Profesor de saxofón</p>
-                                    <div class="post-excerpt">
-                                        <p>Clases particulares de saxofón en Tarragona. Escríbeme para más información.</p>
-                                    </div>
-                                </div>
-                            </article>
-
-                            <!-- <article class="post">
-                                <a class="post-thumb" href="/services/musicos-para-funerales.php">
-                                    <img class="img-responsive" src="/images/services/thumb-musicos-para-funerales.jpg" alt="Músicos para funerales.">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/services/musicos-para-funerales.php">Músicos para funerales</a></h4>
-                                    <p class="post-date">Saxofonista profesional</p>
-                                    <div class="post-excerpt">
-                                        <p>Música para una despedida con funeral, misa o liturgia.</p>
-                                    </div>
-                                </div>
-                            </article> -->
-
-                            <!-- Pagination -->
-                            <!-- <nav class="navigation post-pagination" role="navigation">
-                                <div class="nav-links">
-                                    <a class="prev page-numbers" href="#"><i class="fa fa-angle-double-left"></i></a>
-                                    <span class="page-numbers current">1</span>
-                                    <a class="page-numbers" href="#">2</a>
-                                    <a class="page-numbers" href="#">3</a>
-                                    <a class="page-numbers" href="#">4</a>
-                                    <a class="page-numbers" href="#">5</a>
-                                    <a class="next page-numbers" href="#"><i class="fa fa-angle-double-right"></i></a>
-                                </div>
-                            </nav> -->
-                            <!-- Pagination End -->
 
                         </div>
                     </div>
@@ -115,7 +64,7 @@
     </div>
 
     <!-- FOOTER -->
-    <?php include "../common-php/footer/es.html"; ?>
+    <?php include "../common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

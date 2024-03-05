@@ -64,7 +64,7 @@
                                     <i class="fa-solid fa-phone"></i> <i class="fa-brands fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Telèfon o Whatsapp</h4>
-                                <p class="doing-text">Escriu-me per <a href="https://wa.me/34625171701">WhatsApp</a> o truca'm al <a href="https://wa.me/34625171701">(+34) 625 171 701</a> per més informaió.</p>
+                                <p class="doing-text">Escriu-me per <a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">WhatsApp</a> o truca'm al <a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">(+34) 625 171 701</a> per més informaió.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">

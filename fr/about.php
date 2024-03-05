@@ -61,7 +61,7 @@
                                 <p><b class="artist-info-item">Reseaux sociaux</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=vsFB0IFWStWJpotGZJmqvA" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i></a>
                                     <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fa-brands fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>

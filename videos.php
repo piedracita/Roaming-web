@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
-    <?php include "../common-php/head.html"; ?>
+    <?php include "common-php/head.html"; ?>
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/videos/index.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/videos.php">
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "../common-php/localization/videos.html"; ?>
+    <?php include "common-php/localization/videos.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
@@ -19,19 +19,19 @@
     <meta name="keywords" content="saxofonista, videos, bodas, fiestas, entretenimiento, barcelona, españa, madrid, valencia">
     
     <!-- COMMON-OPENGRAPH -->
-    <?php include "../common-php/opengraph/es.html"; ?>
+    <?php include "common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
 
 </head>
 
 <body class="page">
     <!-- COMMON-BODY -->
-    <?php include "../common-php/body.html"; ?>
+    <?php include "common-php/body.html"; ?>
     <!-- COMMON-BODY END -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
+        <?php include "common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
     </header>
 
@@ -63,7 +63,7 @@
                 </div>
 
                 <!-- VIDEOS LATEST -->
-                <?php include "../common-php/videos/latest.html"; ?>
+                <?php include "common-php/videos/latest.html"; ?>
                 <!-- VIDEOS LATEST END -->
 
                 <div class="row text-center">
@@ -87,7 +87,7 @@
                     </div>
 
                     <!-- VIDEOS DJ & SAXOPHONE -->
-                    <?php include "../common-php/videos/djsax.html"; ?>
+                    <?php include "common-php/videos/djsax.html"; ?>
                     <!-- VIDEOS DJ & SAXOPHONE END -->
 
                 </div>
@@ -108,7 +108,7 @@
                 </div>
 
                 <!-- VIDEOS WEDDING CEREMONY -->
-                <?php include "../common-php/videos/wedding-ceremony.html"; ?>
+                <?php include "common-php/videos/wedding-ceremony.html"; ?>
                 <!-- VIDEOS WEDDING CEREMONY END -->
 
                 <div class="row text-center">
@@ -132,7 +132,7 @@
                     </div>
 
                     <!-- VIDEOS WEDDING COCKTAIL -->
-                    <?php include "../common-php/videos/wedding-cocktail.html"; ?>
+                    <?php include "common-php/videos/wedding-cocktail.html"; ?>
                     <!-- VIDEOS WEDDING COCKTAIL END -->
 
                 </div>
@@ -151,7 +151,7 @@
                 </div>
 
                 <!-- VIDEOS OTHER -->
-                <?php include "../common-php/videos/other.html"; ?>
+                <?php include "common-php/videos/other.html"; ?>
                 <!-- VIDEOS OTHER END -->
 
                 <div class="row text-center">
@@ -173,7 +173,7 @@
                     </div>
 
                     <!-- VIDEOS CLASSICS -->
-                    <?php include "../common-php/videos/classics.html"; ?>
+                    <?php include "common-php/videos/classics.html"; ?>
                     <!-- VIDEOS CLASSICS END -->
 
                 </div>
@@ -181,11 +181,11 @@
         </div>
 
         <!-- DIVIDER -->
-        <?php include "../common-php/dividers/01-es.html"; ?>
+        <?php include "common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
         <!-- NEWS & BLOG -->
-        <div class="section section-padding">
+        <!--<div class="section section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
@@ -198,20 +198,7 @@
                 </div>
                 <div class="row">
                     <div class="blog-grid">
-                        <div class="col-md-4 col-xs-6 blog-grid-item">
-                            <article class="post">
-                                <a class="post-thumb" href="/videos/baila-conmigo-saxonara.php">
-                                    <img loading="lazy" class="img-responsive" src="/images/videos/thumb-baila-conmigo-saxonara.jpg" alt="Baila Conmigo de Daivy por SAXONARA en saxofón y luces LED">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/videos/baila-conmigo-saxonara.php">Baila Conmigo de Dayvi</a></h4>
-                                    <p class="post-date">SAXONARA</p>
-                                    <div class="post-excerpt">
-                                        <p>Videoclip de <strong>Baila Conmigo</strong> por SAXONARA, grabada en <strong>saxofón tenor con luces LED</strong>, para una fiesta espectacular junto al DJ.</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div>
+
                         <div class="col-md-4 col-xs-6 blog-grid-item">
                             <article class="post">
                                 <a class="post-thumb" href="/videos/a-thousand-years-castell-de-tamarit.php">
@@ -226,49 +213,21 @@
                                 </div>
                             </article>
                         </div>
-                        <div class="col-md-4 col-xs-6 blog-grid-item">
-                            <article class="post">
-                                <a class="post-thumb" href="/videos/afterglow-ed-sheeran.php">
-                                    <img loading="lazy" class="img-responsive" src="/images/videos/thumb-afterglow-ed-sheeran.jpg" alt="Afterglow de Ed Sheeran en saxofón por SAXONARA">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/videos/afterglow-ed-sheeran.php">Afterglow de Ed Sheeran</a></h4>
-                                    <p class="post-date">SAXONARA</p>
-                                    <div class="post-excerpt">
-                                        <p>Videoclip de <strong>Afterlow</strong> de Ed Sheeran por SAXONARA en saxofón tenor.</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-md-4 col-xs-6 blog-grid-item">
-                            <article class="post">
-                                <a class="post-thumb" href="/videos/snowman-sia.php">
-                                    <img loading="lazy" class="img-responsive" src="/images/videos/thumb-snowman-sia.jpg" alt="Snowman de Sia en saxofón por SAXONARA en el Estany d'Ivars i Vila-sana">
-                                </a>
-                                <div class="post-content">
-                                    <h4 class="post-title"><a href="/videos/snowman-sia.php">Snowman de Sia</a></h4>
-                                    <p class="post-date">SAXONARA</p>
-                                    <div class="post-excerpt">
-                                        <p>Snowman de Sia grabada por SAXONARA en saxofón tenor en el <strong>Estany d'Ivars i Vila-sana</strong> tras las primeras nieves de 2021.</p>
-                                    </div>
-                                </div>
-                            </article>
-                        </div>
                         
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- NEWS & BLOG END -->
 
     </div>
 
     <!-- FOOTER -->
-    <?php include "../common-php/footer/es.html"; ?>
+    <?php include "common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->
-    <?php include "../common-php/body-script.html"; ?>
+    <?php include "common-php/body-script.html"; ?>
     <!-- COMMON-BODY-SCRIPT END -->
 </body>
 

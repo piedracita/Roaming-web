@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -19,7 +19,7 @@
     <meta name="keywords" content="saxofonista, contacto, bodas, fiestas, entretenimiento, SAXONARA, tarragona, barcelona, girona, lleida">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "common-php/opengraph/es.html"; ?>
+    <?php include "common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
 
 </head>
@@ -32,7 +32,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
+        <?php include "common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
     </header>
 
@@ -65,7 +65,7 @@
                                     <i class="fa-solid fa-phone"></i> <i class="fab fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Llamada o WhatsApp</h4>
-                                <p class="doing-text">Escríbeme por <a href="https://wa.me/34625171701">WhatsApp</a> o llama al <a href="https://wa.me/34625171701">(+34) 625 171 701</a> para solicitar más información.</p>
+                                <p class="doing-text">Escríbeme por <a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">WhatsApp</a> o llama al <a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">(+34) 625 171 701</a> para solicitar más información.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
@@ -89,13 +89,13 @@
         <!-- WHAT WE DO END -->
 
         <!-- REVIEWS -->
-        <?php include "common-php/reviews/es.html"; ?>
+        <?php include "common-php/reviews/en.html"; ?>
         <!-- REVIEWS END -->
 
     </div>
 
     <!-- FOOTER -->
-    <?php include "common-php/footer/es.html"; ?>
+    <?php include "common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

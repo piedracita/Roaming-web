@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -19,7 +19,7 @@
     <meta name="keywords" content="saxofonista, evento, boda, fiesta, musico, Tarragona">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "common-php/opengraph/es.html"; ?>
+    <?php include "common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
 
 </head>
@@ -32,7 +32,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
+        <?php include "common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
 
         <!-- BANNER SLIDER -->
@@ -109,7 +109,7 @@
         <!-- ABOUT BAND END -->
 
         <!-- DIVIDER -->
-        <?php include "common-php/dividers/01-es.html"; ?>
+        <?php include "common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
         <!-- ARTIST -->
@@ -229,13 +229,13 @@
         <!-- WHAT WE DO END -->
 
         <!-- REVIEWS -->
-        <?php include "common-php/reviews/es.html"; ?>
+        <?php include "common-php/reviews/en.html"; ?>
         <!-- REVIEWS END -->
         
     </div>
 
     <!-- FOOTER -->
-    <?php include "common-php/footer/es.html"; ?>
+    <?php include "common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->

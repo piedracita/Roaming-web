@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <!-- COMMON-HEAD -->
@@ -19,7 +19,7 @@
     <meta name="keywords" content="saxofonista, barcelona, SAXONARA, eventos, bodas, fiestas, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "common-php/opengraph/es.html"; ?>
+    <?php include "common-php/opengraph/en.html"; ?>
     <!-- COMMON-OPENGRAPH END -->
     
 </head>
@@ -33,7 +33,7 @@
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
+        <?php include "common-php/navigation/en.html"; ?>
         <!-- NAVIGATION END -->
 
         <!-- BANNER SLIDER -->
@@ -73,7 +73,7 @@
                                 <p><b class="artist-info-item">Sígueme</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA"><i class="fab fa-facebook"></i></a>
                                     <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fab fa-instagram"></i></a>
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fab fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fab fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>
@@ -153,12 +153,12 @@
         <!-- ARTIST END -->
 
         <!-- DIVIDER -->
-        <?php include "common-php/dividers/01-es.html"; ?>
+        <?php include "common-php/dividers/01-en.html"; ?>
         <!-- DIVIDER END -->
 
     </div>
     <!-- FOOTER -->
-    <?php include "common-php/footer/es.html"; ?>
+    <?php include "common-php/footer/en.html"; ?>
     <!-- FOOTER END -->
 
     <!-- COMMON-BODY-SCRIPT -->
