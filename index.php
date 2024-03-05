@@ -166,7 +166,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="images/page/roaming-events/saxophonist-events" alt="roaming jazz band at weddings and events">
+                            <img loading="lazy" class="img-responsive" src="images/page/roaming-events/roaming-events.jpg" alt="roaming jazz band at weddings and events">
                         </div>
                     </div>
                     <div class="col-md-6">
