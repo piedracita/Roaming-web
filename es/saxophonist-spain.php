@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-spain.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/en/saxophonist-spain.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-spain.html"; ?>

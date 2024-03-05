@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-lleida.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/cat/saxofonista-lleida.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista de Lleida | Música per esdeveniments d'empresa i bdoes | SAXONARA</title>

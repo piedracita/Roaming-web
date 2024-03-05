@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/saxofonista-valencia.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/saxofonista-valencia.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista en Valencia | Eventos de Empresa, Fiestas o Bodas | SAXONARA</title>
@@ -40,7 +40,7 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <a class="btn btn-simple btn-lg btn-white" href="/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
                         </div>
                     </div>
                 </div>
@@ -139,7 +139,7 @@
                 <div class="row">
                         <div class="col-md-10 col-md-offset-1 col-xs-12">
                             <div class="text-center style-3">
-                                <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">MÁS VÍDEOS</a>
+                                <a class="btn btn-small btn-black" href="/videos.php" title="Videos de SAXONARA">MÁS VÍDEOS</a>
                             </div>
                         </div>
                     </div>

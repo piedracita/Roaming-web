@@ -7,12 +7,12 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/about.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/about.php">
 
     <!-- SITE INFORMATION -->
-    <title>Todo sobre mi | ¿Quien es SAXONARA?</title>
-    <meta name="description" content="¿Quién es Arnald SAXONARA? Descubre toda mi historia que va mucho más allá de ser saxofonista para eventos.">
-    <meta name="keywords" content="saxofonista, SAXONARA, About, quién, arnald, eventos, bodas">
+    <title>About the Roaming Jazz Band | ¿Quien es SAXONARA?</title>
+    <meta name="description" content="Get to know us better, info about who we are and our background.">
+    <meta name="keywords" content="roaming, jazz, band, barcelona, saxophonist, events, weddings">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/en.html"; ?>
@@ -35,9 +35,9 @@
     <!-- PAGE HEADER -->
     <div class="page-header">
         <div class="container text-center">
-            <h1 class="page-title">¿Quién es SAXONARA?</h1>
+            <h1 class="page-title">Get to know us better</h1>
             <ol class="breadcrumb">
-                <li>¿Quién es Arnald SAXONARA? Descubre toda mi historia que va mucho más allá de ser saxofonista para eventos.</li>
+                <li>What is the Roaming Jazz Band and some details about its members.</li>
             </ol>
         </div>
     </div>

@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/videos/a-thousand-years-castell-de-tamarit.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/videos/a-thousand-years-castell-de-tamarit.php">
 
     <title>A Thousand Years - Christina Perri | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de A Thousand Years de Christina Perri por SAXONARA. Grabado en el Castell de Tamarit, Tarragona.">

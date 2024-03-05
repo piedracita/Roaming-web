@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-girona.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/cat/saxofonista-girona.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista a Girona | Bodes, Esdeveniments i Festes amb SAXONARA</title>

@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/saxofonista-bodas.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/saxofonista-bodas.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/sax-weddings.html"; ?>

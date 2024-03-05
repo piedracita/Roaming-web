@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/cat/">
+    <link rel="canonical" href="https://www.roamingjazzband.com/cat/">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/main.html"; ?>
@@ -146,7 +146,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="/images/page/saxophonist-for-events/saxofonista-per-esdeveniments.jpg" alt="saxofonista per a bodes i esdeveniments">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roaming-events/saxofonista-per-esdeveniments.jpg" alt="saxofonista per a bodes i esdeveniments">
                         </div>
                     </div>
                     <div class="col-md-6">

@@ -8,7 +8,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/404.html">
+    <link rel="canonical" href="https://www.roamingjazzband.com/404.html">
 
     <!-- SITE INFORMATION -->
     <title>404 - Page not found | SAXONARA</title>

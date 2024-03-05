@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-perpignan.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/fr/saxophoniste-perpignan.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxophoniste à Perpignan | Mariages, Événements & Soirées | SAXONARA</title>

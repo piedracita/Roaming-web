@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/contact.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/contact.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/contact.html"; ?>

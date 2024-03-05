@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-toulouse.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/fr/saxophoniste-toulouse.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxophoniste à Toulouse | Mariages, Événements & Soirées | SAXONARA</title>

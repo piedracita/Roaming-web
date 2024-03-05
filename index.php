@@ -14,9 +14,9 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>ROAMING JAZZ BAND | The band for your wedding or event</title>
-    <meta name="description" content="We want to put music at your event, wedding or party, we are the Roaming Jazz Band playing modern music and jazz classics.">
-    <meta name="keywords" content="saxofonista, evento, boda, fiesta, musico, Tarragona">
+    <title>Roaming Jazz Band | Acoustic Party Band from Barcelona</title>
+    <meta name="description" content="Best acoustic live band for your wedding and event in Barcelona, also available internationally. We love to play jazz and pop music.">
+    <meta name="keywords" content="roaming, band, weddings, events, party, jazz">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/en.html"; ?>
@@ -86,7 +86,7 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">Roaming Jazz Band<br>The live band you're looking for</h3>
-                            <p class="section-subtext">We are la Roaming Jazz Band, your international party band form Barcelona. We love playing at amazing events and wedding, if you're getting married in Spain or anywhere in the world , get in touch with us, we'd love to be part of it.</p>
+                            <p class="section-subtext">We are la Roaming Jazz Band, your international party band form Barcelona. We love playing at amazing events and wedding, if you're getting married in Spain or anywhere, get in touch with us, we'd love to be part of it, we play internationally.</p>
 
                             <p class="section-subtext">You can see all our videos here and don't forget to find us on Instagram and stay up to date with our music.</p>
                             <a class="btn btn-small btn-black" href="#contact">Get in touch</a>
@@ -166,18 +166,18 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="images/page/saxophonist-for-events/saxofonista-para-eventos.jpg" alt="Saxofonista para bodas y eventos">
+                            <img loading="lazy" class="img-responsive" src="images/page/roaming-events/saxophonist-events" alt="roaming jazz band at weddings and events">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="section-header">
                             <h2 class="section-title">Servicios con saxofonista</h2>
-                            <h5>Bodas</h5>
-                            <p>Una de las partes que más disfruto como saxofonista és cuando participo en bodas, realizando servicios como la <strong><a href="/saxofonista-bodas.php#ceremony">Ceremonia</a></strong>, el <strong><a href="/saxofonista-bodas.php#cocktail">Cóctel</a></strong>, el <strong>Primer Baile</strong> o la <strong><a href="/saxofonista-bodas.php#party">Fiesta junto al DJ</a></strong>, siempre con la intención de hacer que a celebración sea inolvidable y al gusto de la pareja.</p>
-                            <h5>Eventos Corporativos</h5>
-                            <p>En los <strong>eventos de empresa</strong> suelo trabajar <strong>amenizando en saxofón</strong> con música estilo Smooth Pop o House, creando un <strong>ambiente Chill-Out Moderno</strong> para momentos de After-Office, Team Building y similares, una opción muy solicitada en grandes ciudades como <strong>Barcelona, Madrid o Valencia</strong>.</p>
-                            <h5>Sonorización y Equipos de Sonido</h5>
-                            <p>También podemos proveer el <strong>equipo de sonido y luces</strong> para las performances, se trata de equipos de alta calidad y modulábles dependiendo del tipo de evento, el público y el espacio.</p>
+                            <h5>Weddings</h5>
+                            <p>We can play at different times in your wedding, it all depends on what you'd like, we can walk the guests from one area to the other, take them from the ceremony to the cocktail area, play modern pop music with jazzy roots at the cocktail, take them to the dinner area, play songs during dinner... We've been to many places and every wedding is differents, get in touch with us and we'll talk about it</p>
+                            <h5>Company Events</h5>
+                            <p>If you're thinking about having a live band to perform at your company event, you've come to the right place, we, the Roaming Jazzz Band, will play live and elegant music that your customers will love, we can play acousticly or plugged into the soun system, and our favorite music styles are, of course, jazz music, but we also love to play modern pop music with jazzy roots.</p>
+                            <h5>Acoustic Music</h5>
+                            <p>We are and acoustic live band, what does this mean? We don't require any sound system to plug our instruments, and we can walk around the area, this means we are 100% acoustic, although we can be plugged in if required.</p>
                         </div>
                     </div>
                 </div>

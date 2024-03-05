@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-tarragona.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/cat/saxofonista-tarragona.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxofonista a Tarragona | SAXONARA</title>

@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/cat/about.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/cat/about.php">
 
     <!-- SITE INFORMATION -->
     <title>Tot sobre mi | Qui és SAXONARA?</title>

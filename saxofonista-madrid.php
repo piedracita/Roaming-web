@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/saxofonista-madrid.php">
+    <link rel="canonical" href="https://www.roamingjazzband.com/saxofonista-madrid.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/loc-madrid.html"; ?>
@@ -44,7 +44,7 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <a class="btn btn-simple btn-lg btn-white" href="/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
                         </div>
                     </div>
                 </div>
@@ -143,7 +143,7 @@
                 <div class="row">
                         <div class="col-md-10 col-md-offset-1 col-xs-12">
                             <div class="text-center style-3">
-                                <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">MÁS VÍDEOS</a>
+                                <a class="btn btn-small btn-black" href="/videos.php" title="Videos de SAXONARA">MÁS VÍDEOS</a>
                             </div>
                         </div>
                     </div>
