@@ -14,8 +14,8 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>ROAMING JAZZ BAND | Saxofonista para bodas y eventos</title>
-    <meta name="description" content="Saxofonista para bodas, eventos y fiestas. Shows con música comercial y jazz. Saxofonista disponible en Barcelona, Madrid, Tarragona, Girona, Ibiza, Andorra y toda España.">
+    <title>ROAMING JAZZ BAND | The band for your wedding or event</title>
+    <meta name="description" content="We want to put music at your event, wedding or party, we are the Roaming Jazz Band playing modern music and jazz classics.">
     <meta name="keywords" content="saxofonista, evento, boda, fiesta, musico, Tarragona">
 
     <!-- COMMON-OPENGRAPH -->
@@ -52,11 +52,11 @@
             <div class="banner-item bg-saxonara-electronicsax">
                 <div class="banner-content text-white">
                     <div class="container">
-                        <h1 class="banner-title">Saxofonista para eventos</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Bienvenidos a SAXONARA, saxofonista profesional para bodas y eventos. <b>¡Música y diversión!</b></span></p>
+                        <h1 class="banner-title">Roaming Jazz Band</h1>
+                        <p class="banner-subtitle"><span class="banner-highlight">Playing you favorite songs at the most amazing events</span></p>
                         <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <a class="btn btn-border btn-lg btn-white" href="#contact">Get in touch</a>
+                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/videos.php"><i class="fa-solid fa-play"></i> Videos</a>-->
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Saxofonista para tu boda, fiesta o celebración. <b>¡SAXONARA!</b></span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <a class="btn btn-simple btn-lg btn-white" href="/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
                         </div>
                     </div>
                 </div>
@@ -85,15 +85,11 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
-                            <h3 class="section-title">SAXONARA<br>Saxofonista para bodas y eventos</h3>
-                            <p class="section-subtext">¡Hola! Soy Arnald SAXONARA, <strong>saxofonista profesional en eventos y bodas</strong> como solista, junto a DJs, grupos y otras opciones. Me encanta ponerle <strong><a href="/saxofonista-bodas.php">música en directo en bodas</a></strong>, eventos privados, hoteles, fiestas, <strong>cenas de empresa</strong> y más.</strong></p>
+                            <h3 class="section-title">Roaming Jazz Band<br>The live band you're looking for</h3>
+                            <p class="section-subtext">We are la Roaming Jazz Band, your international party band form Barcelona. We love playing at amazing events and wedding, if you're getting married in Spain or anywhere in the world , get in touch with us, we'd love to be part of it.</p>
 
-                            <p class="section-subtext"><b>¿Donde podéis encontrarme?</b> Me desplazo para ponerle música como <a href="saxofonista-espana.php">saxofonista en toda España</a>, especialmente podréis encontrarme en <a href="saxofonista-barcelona.php">Barcelona</a>, <a href="saxofonista-madrid.php">Madrid</a> o <a href="saxofonista-valencia.php">Valencia</a>. También trabajo, especialmente en verano en Mallorca y eventos privados y bodas en Santander, Zaragoza o Euskadi.</p>
-
-                            <p class="section-subtext"><b>¿Mis estilos favoritos?</b> Adapto mis <b>shows al tipo de evento</b>, así no es lo mismo tocar <strong>música romántica en saxofón</strong> en una <a href="/saxofonista-bodas.php#ceremony">Ceremonia de Boda</a> que salir con el <strong>saxofón y luces LED</strong> en la tarima de una discoteca. Me encanta adaptarme a cada situación, de una manera <strong>elegante</strong> y buscando satisfacer al cliente, así también estoy abierto a <b>peticiones</b> para hacer que el evento sea único.</p>
-
-                            <p class="section-subtext">Además de la música, también dispongo de <b>equipos de sonido y microfonía</b> para mayor comodidad. Contacta conmigo para reservar la fecha de tu evento. Me desplazo por toda <strong>España</strong> y en el extrangero.</p>
-                            <a class="btn btn-small btn-black" href="#contact">CONTACTO</a>
+                            <p class="section-subtext">You can see all our videos here and don't forget to find us on Instagram and stay up to date with our music.</p>
+                            <a class="btn btn-small btn-black" href="#contact">Get in touch</a>
                         </div>
                     </div>
                 </div>
@@ -118,7 +114,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Vídeos de SAXONARA</h3>
+                            <h3 class="section-title">Our Videos</h3>
                             <p class="section-subtext">Tengo muchísimos vídeos de grabaciones de directo en bodas y eventos, así como videoclips que grabamos en lugares maravillosos. Para estar al día de las últimas grabaciones o descubrir juntos <strong>las mejores fincas de bodas</strong> te puedes suscribir a mis canales de Instagram o Youtube, encuéntrame como SAXONARA.</p>
                             <p class="section-subtext">Te dejo a continuación algunas de mis últimas grabaciones, algunos de <strong>música romátinca en saxofón</strong>, vídeos como <a href="saxofonista-bodas.php">saxofonista para bodas</a> o en fiestas con <strong>saxofonista y DJ</strong>.</p>
                         </div>
@@ -129,24 +125,24 @@
                 <?php include "common-php/videos/latest.html"; ?>
                 <!-- VIDEOS LATEST END -->
 
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">+ VÍDEOS</a>
+                            <a class="btn btn-small btn-black" href="/videos.php" title="Videos of the Roaming Jazz Band">+ VIDEOS</a>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
             </div>
         </div>
         <!-- ARTIST END -->
 
         <!-- DIVIDER -->
-        <?php include "common-php/dividers/repertoire-presence-es.html"; ?>
+        <?php include "common-php/dividers/repertoire-presence-en.html"; ?>
         <!-- DIVIDER END -->
 
         <!-- COMMON WEDDINGS -->
-        <?php include "common-php/weddings/es.html"; ?>
+        <?php include "common-php/weddings/en.html"; ?>
         <!-- COMMON WEDDINGS END -->
         
 
@@ -156,7 +152,7 @@
                 <div class="container">
 
                 <!-- COMMON-VIDEOS-WEDDING01 -->
-                <?php include "common-php/videos/wedding01.html"; ?>
+                <?php include "common-php/videos/latest.html"; ?>
                 <!-- COMMON-VIDEOS-WEDDING01 END -->
 
                 </div>
