@@ -413,7 +413,7 @@ Header
   border: none;
   background-color: rgba(255, 255, 255, 0.66);
   z-index: 990;
-  min-height: 100px;
+  /*min-height: 100px; */
   margin: 0;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -423,7 +423,8 @@ Header
   font-weight: 600;
   text-transform: uppercase;
   color: #000;
-  line-height: 70px;
+  /*line-height: 70px;          PROVA 06/03/24, susbtitueixo line-height per height*/
+  height: auto;
   padding: 15px 18px;
 }
 .navbar-default .navbar-nav > li > a:focus {
@@ -560,12 +561,14 @@ Header
 }
 
 .navbar-brand {
-  width: 263px;
+  font-family: "Sancreek";
+  /* width: 263px;          PROVA 06/03/2024 */
   height: auto;
-  padding-top: 22px;
-  padding-bottom: 22px;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  /*padding-top: 22px;      PROVA 06/03/2024
+  padding-bottom: 22px;*/
+  /*margin-top: 15px;       PROVA 06/03/2024
+  margin-bottom: 15px; */
+  margin: auto;
   font-size: 4rem; /* títol text */
   font-weight: 400;
   color: #000;
@@ -585,8 +588,8 @@ Banner
   position: relative;
 }
 
-.bg-saxonara-electronicsax {
-  background-image: url(../images/css/bg-saxonara-electronicsax.jpg);
+.banner-item-1 {
+  background-image: url(../images/css/banner1.jpg);
 }
 
 .banner-item-2 {
@@ -626,7 +629,6 @@ Banner
   margin-bottom: 5px;
   line-height: 1;
   text-shadow: 2px 2px 4px #000000;
-
 }
 
 .banner-slider .owl-prev,
@@ -846,7 +848,7 @@ About Singer
 .about-singer-section {
   background-image: url(../images/css/saxophonist-saxonara-events.jpg);
   height: 100%; 
-  background-attachment: fixed;
+  /*background-attachment: fixed;     EDIT 06/03/2024 DESACTIVO PARALLAX */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2144,7 +2146,7 @@ Footer
 .logo-social-area {
   background-image: url(../images/css/footer.jpg);
   height: 100%; 
-  background-attachment: fixed;
+  /*background-attachment: fixed;     EDIT 06/03/2024 DESACTIVO PARALLAX */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2217,7 +2219,7 @@ Page Header
 .page-header {
   background-image: url(../images/css/page-bg.jpg);
   height: 100%; 
-  background-attachment: fixed;
+  /*background-attachment: fixed;     EDIT 06/03/2024 DESACTIVO PARALLAX */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2255,6 +2257,7 @@ Page Header
   text-transform: uppercase;
   margin: 0;
   line-height: 1;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 /*----------------------------

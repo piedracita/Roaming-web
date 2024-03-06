@@ -14,9 +14,9 @@
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Contactar con SAXONARA | Saxofonista para bodas y eventos</title>
-    <meta name="description" content="Escríbeme para solicitar más información, pedir presupuesto o confirmar disponibilidad.">
-    <meta name="keywords" content="saxofonista, contacto, bodas, fiestas, entretenimiento, SAXONARA, tarragona, barcelona, girona, lleida">
+    <title>Contact Roaming Jazz Band</title>
+    <meta name="description" content="Contact us if you're interested in booking the Roaming Band for your event, wedding or paraty, we are live.">
+    <meta name="keywords" content="contact, booking, roaming, jazz, band, barcelona, spain">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/en.html"; ?>
@@ -39,9 +39,9 @@
     <!-- PAGE HEADER -->
     <div class="page-header">
         <div class="container text-center">
-            <h1 class="page-title">Contacto</h1>
+            <h1 class="page-title">Roaming at your service</h1>
             <ol class="breadcrumb">
-                <li>saxofonista para eventos</li>
+                <li>Get in touch with us, we are ready</li>
             </ol>
         </div>
     </div>
@@ -58,28 +58,28 @@
                         <div class="doing-items section-padding">
                             <div class="section-header">
                                 <!-- <h2 class="section-title">Contacta conmigo</h2> -->
-                                <p class="section-subtext"><b>¿Buscas saxofonista?</b> Reserva la fecha de tu boda o evento con SAXONARA y empecemos a preparar tu celebración única.</p>
+                                <p class="section-subtext">Do you want to hire the Roaming Jazz Band for your party or event? Get in touch with us, we'll confirm our availabillity and start working on it</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-phone"></i> <i class="fab fa-whatsapp"></i>
                                 </div>
-                                <h4 class="doing-title">Llamada o WhatsApp</h4>
-                                <p class="doing-text">Escríbeme por <a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">WhatsApp</a> o llama al <a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">(+34) 625 171 701</a> para solicitar más información.</p>
+                                <h4 class="doing-title">We are on Whatsapp</h4>
+                                <p class="doing-text">Text us on call us on<a href="https://wa.me/34625171701?text=Hi%21%20I%20want%20to%20know%20more%20about%20the%20Roaming%20Jazz%20Band.">WhatsApp</a>(+34) 625 171 701</a> para solicitar más información.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="far fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Escríbeme a <a href="mailto:ara@saxonara.com?subject=www.saxonara.com">ara@saxonara.com</a> y solicita más información, no te olvides de indicar la fecha y lugar del evento.</p>
+                                <p class="doing-text">Send us an email to <a href="mailto:info@roamingjazzband.com?subject=www.roamingjazzband.com">info@roamingjazzband.com</a> y solicita más información, no te olvides de indicar la fecha y lugar del evento.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
-                                <h4 class="doing-title">Instagram o Facebook</h4>
-                                <p class="doing-text">Escríbeme por las redes sociales <a href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
+                                <h4 class="doing-title">Text us on Instagram</h4>
+                                <p class="doing-text">You can easily text us <a href="https://www.instagram.com/roamingjazz/" target="_blank" rel="noopener" title="Instagram of the Roaming Jazz Band">on Instagram too.</a>.</p>
                             </div>
                         </div>
                     </div>

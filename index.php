@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </div> -->
-            <div class="banner-item bg-saxonara-electronicsax">
+            <div class="banner-item banner-item-1">
                 <div class="banner-content text-white">
                     <div class="container">
                         <h1 class="banner-title">Roaming Jazz Band</h1>
@@ -114,9 +114,9 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="section-header text-center">
-                            <h3 class="section-title">Our Videos</h3>
-                            <p class="section-subtext">Tengo muchísimos vídeos de grabaciones de directo en bodas y eventos, así como videoclips que grabamos en lugares maravillosos. Para estar al día de las últimas grabaciones o descubrir juntos <strong>las mejores fincas de bodas</strong> te puedes suscribir a mis canales de Instagram o Youtube, encuéntrame como SAXONARA.</p>
-                            <p class="section-subtext">Te dejo a continuación algunas de mis últimas grabaciones, algunos de <strong>música romátinca en saxofón</strong>, vídeos como <a href="saxofonista-bodas.php">saxofonista para bodas</a> o en fiestas con <strong>saxofonista y DJ</strong>.</p>
+                            <h3 class="section-title">Live Roaming Band</h3>
+                            <p class="section-subtext">The best way to get an idea of what we do and how we play is to watch our videos or see us perform. We mostly perform <strong>acoustically</strong>, this means that the music only comes from our instruments, allowing us to move around and roam, also it's perfect for a <strong>surprise</strong> set, as no one will expectit until we appear!</p>
+                            <p class="section-subtext">Watch some of our videos and follow us on Instagram, where we post our most recent music videos and recordings of live performances.</p>
                         </div>
                     </div>
                 </div>
@@ -125,13 +125,13 @@
                 <?php include "common-php/videos/latest.html"; ?>
                 <!-- VIDEOS LATEST END -->
 
-                <!--<div class="row">
+                <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/videos.php" title="Videos of the Roaming Jazz Band">+ VIDEOS</a>
+                            <a class="btn btn-small btn-black" href="/videos.php" title="Videos of the Roaming Jazz Band">More Videos</a>
                         </div>
                     </div>
-                </div>-->
+                </div>
 
             </div>
         </div>
@@ -171,13 +171,13 @@
                     </div>
                     <div class="col-md-6">
                         <div class="section-header">
-                            <h2 class="section-title">Servicios con saxofonista</h2>
+                            <h2 class="section-title">Live music for events</h2>
                             <h5>Weddings</h5>
-                            <p>We can play at different times in your wedding, it all depends on what you'd like, we can walk the guests from one area to the other, take them from the ceremony to the cocktail area, play modern pop music with jazzy roots at the cocktail, take them to the dinner area, play songs during dinner... We've been to many places and every wedding is differents, get in touch with us and we'll talk about it</p>
+                            <p>We can play at different times in your wedding, it all depends on what you like, we can walk the guests from one area to the other, take them from the <strong>ceremony</strong> to the <strong>cocktail</strong> area, play <strong>modern pop music</strong> with jazzy roots at the cocktail, take them to the dinner area, play thoughout the <strong>Wedding Cocktail</strong> or appearing by surprise at <strong>Dinner</strong>... We've been to many places and every wedding is differents, get in touch with us and we'll talk about it</p>
                             <h5>Company Events</h5>
-                            <p>If you're thinking about having a live band to perform at your company event, you've come to the right place, we, the Roaming Jazzz Band, will play live and elegant music that your customers will love, we can play acousticly or plugged into the soun system, and our favorite music styles are, of course, jazz music, but we also love to play modern pop music with jazzy roots.</p>
+                            <p>If you're thinking about having a <strong>live band</strong> to perform at your <strong>company event</strong>, you've come to the right place, we, the Roaming Jazzz Band, will play live and elegant music that your customers will love, we can play acoustically or plugged into the sound system. Our favorite music styles are, of course, <strong>jazz</strong> music, but we also love to play <strong>modern pop</strong> music with jazzy roots.</p>
                             <h5>Acoustic Music</h5>
-                            <p>We are and acoustic live band, what does this mean? We don't require any sound system to plug our instruments, and we can walk around the area, this means we are 100% acoustic, although we can be plugged in if required.</p>
+                            <p>We are and <strong>acoustic live band</strong>, what does this mean? We don't require any sound system to plug our instruments, and we can walk around the area, this means we are 100% acoustic, although we can be plugged in if required.</p>
                         </div>
                     </div>
                 </div>
@@ -193,29 +193,29 @@
                     <div class="col-sm-5">
                         <div class="doing-items section-padding">
                         	<div class="section-header">
-                                <h2 class="section-title">Saxofonista para Eventos</h2>
-                                <p class="section-subtext">Como saxofonista freelance me adapto al tipo de evento y ajusto también mi estilo y show, con la inteción de ofrecer la mejor experiencia y entretenimiento</p>
+                                <h2 class="section-title">Amazing events & Wedding Venues</h2>
+                                <p class="section-subtext">We are very lucky to get to travel and enjoy playing our music <strong>all over Europe</strong>. We are from <strong>Barcelona</strong> but this doesn't stop us from flying or driving to be there at your event, get in touch with us to confirm our availability and lets start planning your <strong>special event or wedding</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
-                                    <i class="fa-solid fa-headphones"></i>
+                                    <i class="fa-solid fa-music"></i>
                                 </div>
-                                <h4 class="doing-title">Fiesta DJ y Saxofonsita</h4>
-                                <p class="doing-text">El formato perfecto para una <strong>fiesta con baile</strong>, con música moderna y disco bailable, y como <strong>saxofonista improvisando junto al DJ</strong>. También es una genial opción de <strong><a href="/saxofonista-bodas.php#party">entretenimiento para barra libre de boda</a></strong>.</p>
+                                <h4 class="doing-title">Roaming Jazz Band</h4>
+                                <p class="doing-text">We play live that music you love, roaming around the area and having fun with your guests</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
-                                <h4 class="doing-title">Amenización / Cóctel</h4>
-                                <p class="doing-text">Amenización de un <strong>evento cóctel</strong> o <strong><a href="/saxofonista-bodas.php#cocktail">aperitivo de boda</a></strong>, con estilos de Tropical House, Modern Pop y peticiones, creando un ambiente divertido y dinámico que invita a moverse.</p>
+                                <h4 class="doing-title">Acoustic Duo Project</h4>
+                                <p class="doing-text">Our most <strong>intimate band</strong>, a 2-piece band playing <strong>acoustic music</strong>, covers of pop music and jazz, available for <strong>weddings and events</strong>.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-microphone"></i>
                                 </div>
-                                <h4 class="doing-title">Chill-Out Jazz</h4>
-                                <p class="doing-text">Como músico me encanta el jazz y es una excelente opción para crear el <strong>ambiente Lounge, distendido</strong>, que invite a relajarse, alternando unas piezas en saxofón y otras como <strong>cantante de jazz</strong>.</p>
+                                <h4 class="doing-title">3-piece band and more</h4>
+                                <p class="doing-text">Besides the Acoustic Duo Project, we mostly perform as a <strong>3-piece band</strong>, this way we can create the best groove and those nice melodies, although we can grow larger, adding more members to our band, for a better performance and a richer sound.</p>
                             </div>
                         </div>
                     </div>
