@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/page/saxonara/saxophonist-weddings-events.jpg" alt="SAXONARA, Professional saxophone player Barcelona, Ibiza, London, Paris">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/saxophonist-weddings-events.jpg" alt="SAXONARA, Professional saxophone player Barcelona, Ibiza, London, Paris">
                         </div>
                     </div>
                 </div>
