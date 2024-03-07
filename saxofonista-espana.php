@@ -70,7 +70,7 @@
                                 <p><b class="artist-info-item">Educación</b>:<span class="artist-info-value">Academias de España, USA y Puerto Rico</span></p>
                                 <p><b class="artist-info-item">Sígueme</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA"><i class="fab fa-facebook"></i></a>
-                                    <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fab fa-instagram"></i></a>
+                                    <a class="artist-social" href="https://www.instagram.com/roamingjazz/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fab fa-instagram"></i></a>
                                     <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fab fa-youtube"></i></a>
                                 </span></p>
                             </div>

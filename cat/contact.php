@@ -71,14 +71,14 @@
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Escriu-me per correu electrònic a <a href="mailto:ara@saxonara.com?subject=www.saxonara.com">ara@saxonara.com</a> per més informació, no t'oblidis de dir-me el dia i lloc de l'esdeveniment.</p>
+                                <p class="doing-text">Escriu-me per correu electrònic a <a href="mailto:ara@roamingjazzband.com?subject=www.roamingjazzband.com">ara@roamingjazzband.com</a> per més informació, no t'oblidis de dir-me el dia i lloc de l'esdeveniment.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Instagram o Facebook</h4>
-                                <p class="doing-text">Escriu-me a <a href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
+                                <p class="doing-text">Escriu-me a <a href="https://www.instagram.com/roamingjazz/" target="_blank" rel="noopener" title="instagram SAXONARA">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
                             </div>
                         </div>
                     </div>
