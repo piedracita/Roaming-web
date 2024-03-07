@@ -96,7 +96,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="images/page/saxonara/saxofonista-bodas-eventos.jpg" alt="SAXONARA, saxofonista profesional Barcelona España">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/roaming-band-acoustic.jpg" alt="Roaming Jazz Band, acoustic band from Barcelona">
                         </div>
                     </div>
                 </div>

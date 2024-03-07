@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/saxophoniste-mariages-evenements.jpg" alt="SAXONARA, saxophoniste événementiel en France, Paris, Cannes, Toulouse, Saint-Tropez">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/roaming-band-acoustic.jpg" alt="SAXONARA, saxophoniste événementiel en France, Paris, Cannes, Toulouse, Saint-Tropez">
                         </div>
                     </div>
                 </div>
