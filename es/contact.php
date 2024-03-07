@@ -71,7 +71,7 @@
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">Email</h4>
-                                <p class="doing-text">Email me at <a href="mailto:ara@roamingjazzband.com?subject=www.roamingjazzband.com">ara@roamingjazzband.com</a> for more information, don't forget to tell me the day and location of the event.</p>
+                                <p class="doing-text">Email me at <a href="mailto:info@roamingjazzband.com?subject=www.roamingjazzband.com">info@roamingjazzband.com</a> for more information, don't forget to tell me the day and location of the event.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">

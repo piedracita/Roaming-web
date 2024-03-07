@@ -71,7 +71,7 @@
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Envoyez-moi un courriel à <a href="mailto:ara@roamingjazzband.com?subject=www.roamingjazzband.com">ara@roamingjazzband.com</a> pour plus d'informations, n'oubliez pas de me dire le jour et le lieu de l'événement.</p>
+                                <p class="doing-text">Envoyez-moi un courriel à <a href="mailto:info@roamingjazzband.com?subject=www.roamingjazzband.com">info@roamingjazzband.com</a> pour plus d'informations, n'oubliez pas de me dire le jour et le lieu de l'événement.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
