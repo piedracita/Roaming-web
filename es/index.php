@@ -61,11 +61,11 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxophonist for weddings & events</h3>
-                            <p class="section-subtext">Hello! I'm Arnald SAXONARA, I'm a <strong>professional saxophonist at events and weddings</strong> playing as a solo artist, along with DJs, bands or other options. I love playing <strong><a href="/en/saxophonist-wedding.php">live music at weddings</a></strong>, private events, hotels, parties, <strong>corporate events</strong> & more.</p>
+                            <p class="section-subtext">Hello! I'm Arnald SAXONARA, I'm a <strong>professional saxophonist at events and weddings</strong> playing as a solo artist, along with DJs, bands or other options. I love playing <strong><a href="/roaming-weddings.php">live music at weddings</a></strong>, private events, hotels, parties, <strong>corporate events</strong> & more.</p>
 
                             <p class="section-subtext"><b>Where can you find me?</b> I travel and play my music as a <strong>saxophonist throughout Europe</strong>, specially you can find me in <a href="/en/saxophonist-barcelona.php">Barcelona</a>, <a href="/en/saxophonist-madrid.php">Madrid</a> or around <a href="/en/saxophonist-spain.php">Spain</a>. I also work, specially in summer in <a href="/en/saxophonist-mallorca.php">Mallorca</a>, and private events and weddings in the UK, France, Germany, Switzerland and Dubai.</p>
 
-                            <p class="section-subtext"><b>My favorite styles?</b> I adapt my shows to each event, so playing <strong>romantic music on saxophone</strong> at a <a href="/en/saxophonist-wedding.php#ceremony">Wedding Ceremony</a> is not going to be the same as playing my <strong>saxophone with LED lights</strong> on the stage of a nightclub. I love to adapt to each event, in an <strong>elegant</strong> way and seeking to satisfy the client, so I'm also open to <b>requests</b> to make the event unique.</p>
+                            <p class="section-subtext"><b>My favorite styles?</b> I adapt my shows to each event, so playing <strong>romantic music on saxophone</strong> at a <a href="/roaming-weddings.php#ceremony">Wedding Ceremony</a> is not going to be the same as playing my <strong>saxophone with LED lights</strong> on the stage of a nightclub. I love to adapt to each event, in an <strong>elegant</strong> way and seeking to satisfy the client, so I'm also open to <b>requests</b> to make the event unique.</p>
 
                             <p class="section-subtext">In addition to music, I also have <b>sound equipment and microphones</b> for the ease of the customer. Contact me to book the date of your event. I travel throughout <strong>Spain</strong>, <strong>France</strong>, <strong>UK</strong>, <strong>Germany</strong> and abroad.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACT</a>
@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/page/saxonara/saxophonist-weddings-events.jpg" alt="SAXONARA, Professional saxophone player Barcelona, Ibiza, London, Paris">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/roaming-band-acoustic.jpg" alt="SAXONARA, Professional saxophone player Barcelona, Ibiza, London, Paris">
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                             <h3 class="section-title">SAXONARAVideos</h3>
                             <p class="section-subtext">I have tons of videos from live recordings at weddings and events, as well as video clips that we shot in wonderful places. To keep up to date with the latest recordings or discover <strong>the best wedding venues</strong> together, you can subscribe to my Instagram or YouTube channels, find me as SAXONARA.</p>
 
-                            <p class="section-subtext"> Here are some of my latest recordings, some of them are <strong>romantic music on saxophone</strong>, videos as <a href="/en/saxophonist-wedding.php">saxophonist for weddings</a> or parties with <strong>saxophonist and DJ</strong>.</p>
+                            <p class="section-subtext"> Here are some of my latest recordings, some of them are <strong>romantic music on saxophone</strong>, videos as <a href="/roaming-weddings.php">saxophonist for weddings</a> or parties with <strong>saxophonist and DJ</strong>.</p>
                         </div>
                     </div>
                 </div>

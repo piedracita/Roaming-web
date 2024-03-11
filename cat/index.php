@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/page/saxonara/saxofonista-bodes-esdeveniments.jpg" alt="SAXONARA, Saxofonista de Barcelona, Catalunya">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/roaming-band-acoustic.jpg" alt="SAXONARA, Saxofonista de Barcelona, Catalunya">
                         </div>
                     </div>
                 </div>

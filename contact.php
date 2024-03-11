@@ -41,7 +41,7 @@
         <div class="container text-center">
             <h1 class="page-title">Roaming at your service</h1>
             <ol class="breadcrumb">
-                <li>Get in touch with us, we are ready</li>
+                <li><span class="banner-highlight">Get in touch with us, we are ready</span></li>
             </ol>
         </div>
     </div>

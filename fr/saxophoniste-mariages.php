@@ -113,9 +113,9 @@
                         </div>
                         <div class="col-sm-7">
                             <div class="purchase-button-wrap">
-                                <a class="btn btn-border btn-white" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i> Instagram</a>
+                                <a class="btn btn-border btn-white" href="https://www.instagram.com/roamingjazz/" target="_blank" rel="noopener" title="instagram Roaming Jazz Band"><i class="fa-brands fa-instagram"></i> Instagram</a>
                                 <a class="btn btn-border btn-white" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fa-brands fa-youtube"></i> YouTube</a>
-                                <a class="btn btn-border btn-white" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=Cyn7e1mpTI2lt_zWdcEgdg" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i> Spotify</a>
+                                <!-- <a class="btn btn-border btn-white" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=Cyn7e1mpTI2lt_zWdcEgdg" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i> Spotify</a> -->
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                 </div>
 
                 <!-- VIDEOS DJSAX -->
-                <?php include "../common-php/videos/djsax.html"; ?>
+                <?php include "../common-php/videos/wedding-ideas.html"; ?>
                 <!-- VIDEOS DJSAX END -->
             </div>
         </div>
