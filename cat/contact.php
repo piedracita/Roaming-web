@@ -78,7 +78,7 @@
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Instagram o Facebook</h4>
-                                <p class="doing-text">Escriu-me a <a href="https://www.instagram.com/roamingjazz/" target="_blank" rel="noopener" title="instagram Roaming Jazz Band">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
+                                <p class="doing-text">Escriu-me a <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Jazz Band">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
                             </div>
                         </div>
                     </div>
