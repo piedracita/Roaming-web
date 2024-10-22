@@ -72,7 +72,7 @@
                                 <p><b class="artist-info-item">Follow me</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA"><i class="fab fa-facebook"></i></a>
                                     <a class="artist-social" href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Band"><i class="fab fa-instagram"></i></a>
-                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the Roaming Band"><i class="fab fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingMusic" target="_blank" rel="noopener" title="youtube page of the Roaming Band"><i class="fab fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>

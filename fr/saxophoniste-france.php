@@ -63,7 +63,7 @@
 
                                     <a class="artist-social" href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Band"><i class="fa-brands fa-instagram"></i></a>
 
-                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the Roaming Band"><i class="fa-brands fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingMusic" target="_blank" rel="noopener" title="youtube page of the Roaming Band"><i class="fa-brands fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>
