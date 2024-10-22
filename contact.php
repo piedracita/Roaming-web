@@ -7,14 +7,14 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.roamingjazzband.com/contact.php">
+    <link rel="canonical" href="https://www.roaming.cat/contact.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/contact.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Contact Roaming Jazz Band</title>
+    <title>Contact Roaming Band</title>
     <meta name="description" content="Contact us if you're interested in booking the Roaming Band for your event, wedding or paraty, we are live.">
     <meta name="keywords" content="contact, booking, roaming, jazz, band, barcelona, spain">
 
@@ -58,7 +58,7 @@
                         <div class="doing-items section-padding">
                             <div class="section-header">
                                 <!-- <h2 class="section-title">Contacta conmigo</h2> -->
-                                <p class="section-subtext">Do you want to hire the Roaming Jazz Band for your party or event? Get in touch with us, we'll confirm our availabillity and start working on it</p>
+                                <p class="section-subtext">Do you want to hire the Roaming Band for your party or event? Get in touch with us, we'll confirm our availabillity and start working on it</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
@@ -72,14 +72,14 @@
                                     <i class="far fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Send us an email to <a href="mailto:info@roamingjazzband.com?subject=www.roamingjazzband.com">info@roamingjazzband.com</a> y solicita más información, no te olvides de indicar la fecha y lugar del evento.</p>
+                                <p class="doing-text">Send us an email to <a href="mailto:info@roaming.cat?subject=www.roaming.cat">info@roaming.cat</a> y solicita más información, no te olvides de indicar la fecha y lugar del evento.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Text us on Instagram</h4>
-                                <p class="doing-text">You can easily text us <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="Instagram of the Roaming Jazz Band">on Instagram too.</a>.</p>
+                                <p class="doing-text">You can easily text us <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="Instagram of the Roaming Band">on Instagram too.</a>.</p>
                             </div>
                         </div>
                     </div>

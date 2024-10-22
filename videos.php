@@ -7,15 +7,15 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.roamingjazzband.com/videos.php">
+    <link rel="canonical" href="https://www.roaming.cat/videos.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/videos.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Videos by the Roaming Jazz Band | See us in action</title>
-    <meta name="description" content="Live performances of the Roaming Jazz Band, your favorite music now roaming from Barcelona and available internationally.">
+    <title>Videos by the Roaming Band | See us in action</title>
+    <meta name="description" content="Live performances of the Roaming Band, your favorite music now roaming from Barcelona and available internationally.">
     <meta name="keywords" content="roaming, band, videos, weddings, events, barcelona, spain, international, music">
     
     <!-- COMMON-OPENGRAPH -->

@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: http://www.roamingjazzband.com/sitemap.xml
+Sitemap: http://www.roaming.cat/sitemap.xml
 

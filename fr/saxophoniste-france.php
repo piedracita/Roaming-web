@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.roamingjazzband.com/fr/saxophoniste-france.php">
+    <link rel="canonical" href="https://www.roaming.cat/fr/saxophoniste-france.php">
 
     <!-- SITE INFORMATION -->
     <title>Saxophoniste en France | Mariages, Événements & Soirées | SAXONARA</title>
@@ -61,9 +61,9 @@
                                 <p><b class="artist-info-item">Suivez-moi sur</b>:<span class="artist-info-value">
                                     <a class="artist-social" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=vsFB0IFWStWJpotGZJmqvA" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i></a>
 
-                                    <a class="artist-social" href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Jazz Band"><i class="fa-brands fa-instagram"></i></a>
+                                    <a class="artist-social" href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Band"><i class="fa-brands fa-instagram"></i></a>
 
-                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the ROAMING JAZZ BAND"><i class="fa-brands fa-youtube"></i></a>
+                                    <a class="artist-social" href="https://www.youtube.com/@RoamingJazzBand" target="_blank" rel="noopener" title="youtube page of the Roaming Band"><i class="fa-brands fa-youtube"></i></a>
                                 </span></p>
                             </div>
                         </div>

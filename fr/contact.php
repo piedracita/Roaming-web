@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.roamingjazzband.com/fr/contact.php">
+    <link rel="canonical" href="https://www.roaming.cat/fr/contact.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/contact.html"; ?>
@@ -71,14 +71,14 @@
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Envoyez-moi un courriel à <a href="mailto:info@roamingjazzband.com?subject=www.roamingjazzband.com">info@roamingjazzband.com</a> pour plus d'informations, n'oubliez pas de me dire le jour et le lieu de l'événement.</p>
+                                <p class="doing-text">Envoyez-moi un courriel à <a href="mailto:info@roaming.cat?subject=www.roaming.cat">info@roaming.cat</a> pour plus d'informations, n'oubliez pas de me dire le jour et le lieu de l'événement.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Instagram ou Facebook</h4>
-                                <p class="doing-text">Vous pouvez m'écrire aussi sur <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Jazz Band">Instagram</a> ou <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
+                                <p class="doing-text">Vous pouvez m'écrire aussi sur <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Band">Instagram</a> ou <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
                             </div>
                         </div>
                     </div>

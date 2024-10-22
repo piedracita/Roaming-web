@@ -7,7 +7,7 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.roamingjazzband.com/cat/contact.php">
+    <link rel="canonical" href="https://www.roaming.cat/cat/contact.php">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/contact.html"; ?>
@@ -71,14 +71,14 @@
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Escriu-me per correu electrònic a <a href="mailto:info@roamingjazzband.com?subject=www.roamingjazzband.com">info@roamingjazzband.com</a> per més informació, no t'oblidis de dir-me el dia i lloc de l'esdeveniment.</p>
+                                <p class="doing-text">Escriu-me per correu electrònic a <a href="mailto:info@roaming.cat?subject=www.roaming.cat">info@roaming.cat</a> per més informació, no t'oblidis de dir-me el dia i lloc de l'esdeveniment.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Instagram o Facebook</h4>
-                                <p class="doing-text">Escriu-me a <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Jazz Band">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
+                                <p class="doing-text">Escriu-me a <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="instagram Roaming Band">Instagram</a> o <a href="https://www.facebook.com/saxonara/" target="_blank" rel="noopener" title="facebook SAXONARA">Facebook</a>.</p>
                             </div>
                         </div>
                     </div>

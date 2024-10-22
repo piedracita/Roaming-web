@@ -7,14 +7,14 @@
     <!-- COMMON-HEAD END -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.roamingjazzband.com/">
+    <link rel="canonical" href="https://www.roaming.cat/">
 
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/main.html"; ?>
     <!-- COMMON-LOCALIZATION END -->
 
     <!-- SITE INFORMATION -->
-    <title>Roaming Jazz Band | Acoustic Party Band from Barcelona</title>
+    <title>Roaming Band | Acoustic Party Band from Barcelona</title>
     <meta name="description" content="Best acoustic live band for your wedding and event in Barcelona, also available internationally. We love to play jazz and pop music.">
     <meta name="keywords" content="roaming, band, weddings, events, party, jazz">
 
@@ -52,7 +52,7 @@
             <div class="banner-item banner-item-1">
                 <div class="banner-content text-white">
                     <div class="container">
-                        <h1 class="banner-title">Roaming Jazz Band</h1>
+                        <h1 class="banner-title">Roaming Band</h1>
                         <p class="banner-subtitle"><span class="banner-highlight">Playing you favorite songs at the most amazing events</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Get in touch</a>
@@ -85,8 +85,8 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
-                            <h3 class="section-title">Roaming Jazz Band<br>The live band you're looking for</h3>
-                            <p class="section-subtext">We are la Roaming Jazz Band, your international party band form Barcelona. We love playing at amazing events and wedding, if you're getting married in Spain or anywhere, get in touch with us, we'd love to be part of it, we play internationally.</p>
+                            <h3 class="section-title">Roaming Band<br>The live band you're looking for</h3>
+                            <p class="section-subtext">We are la Roaming Band, your international party band form Barcelona. We love playing at amazing events and wedding, if you're getting married in Spain or anywhere, get in touch with us, we'd love to be part of it, we play internationally.</p>
 
                             <p class="section-subtext">You can see all our videos here and don't forget to find us on Instagram and stay up to date with our music.</p>
                             <a class="btn btn-small btn-black" href="#contact">Get in touch</a>
@@ -96,7 +96,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="band-img">
-                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/roaming-band-acoustic.jpg" alt="Roaming Jazz Band, acoustic band from Barcelona">
+                            <img loading="lazy" class="img-responsive" src="/images/page/roamingjazzband/roaming-band-acoustic.jpg" alt="Roaming Band, acoustic band from Barcelona">
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/videos.php" title="Videos of the Roaming Jazz Band">More Videos</a>
+                            <a class="btn btn-small btn-black" href="/videos.php" title="Videos of the Roaming Band">More Videos</a>
                         </div>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="album-image">
-                            <img loading="lazy" class="img-responsive" src="images/page/roaming-events/roaming-events.jpg" alt="roaming jazz band at weddings and events">
+                            <img loading="lazy" class="img-responsive" src="images/page/roaming-events/roaming-events.jpg" alt="Roaming Band at weddings and events">
                         </div>
                     </div>
                     <div class="col-md-6">
