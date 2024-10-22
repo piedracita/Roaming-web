@@ -79,7 +79,7 @@
                                     <i class="fa-solid fa-martini-glass-citrus"></i>
                                 </div>
                                 <h4 class="doing-title">Text us on Instagram</h4>
-                                <p class="doing-text">You can easily text us <a href="https://www.instagram.com/roaming_band/" target="_blank" rel="noopener" title="Instagram of the Roaming Band">on Instagram too.</a>.</p>
+                                <p class="doing-text">You can easily text us <a href="https://www.instagram.com/roaming_music/" target="_blank" rel="noopener" title="Instagram of the Roaming Band">on Instagram too.</a>.</p>
                             </div>
                         </div>
                     </div>
